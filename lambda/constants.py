@@ -1,5 +1,5 @@
-PROXY = "http://user-ksjang0515:jks020515@kr.smartproxy.com:10000"
-URL = "https://pcmap-api.place.naver.com/place/graphql"
+PROXY = ""
+URL = ""
 
 KEYWORD = "음식점"
 
